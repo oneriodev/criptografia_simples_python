@@ -1,0 +1,2 @@
+#instale a biblioteca para realizar a criptografia
+!pip install pymupdf cryptography
